@@ -1,0 +1,14 @@
+.example{
+  font-size: 10vh;
+    
+}
+
+@media screen and (max-width : 500px){
+
+.example{
+
+
+    font-size : 30vw;
+
+}
+}
